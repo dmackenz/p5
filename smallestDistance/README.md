@@ -3,7 +3,7 @@
 
 This sketch finds the smallest path between all randomly placed points.
 
-Vary the amount of points be changing the n variable in sketch.js.
+Vary the amount of points by changing the n variable in sketch.js.
 
 algorithm:
   -  create array holding digits 0 - (length-1)
