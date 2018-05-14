@@ -9,7 +9,7 @@ var drops = [];
 var numDrops = 100;
 
 function setup() {
-    createCanvas(600, 400);
+    createCanvas(windowWidth, windowHeight);
 
     // create all drops in the fountain
     for (var i = 0; i < numDrops; i++) {
