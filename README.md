@@ -4,7 +4,7 @@ This is a collection of p5.js sketches that I have made.
 
 | Title | Link |
 | ------ | ------ |
-| [Ball Physics] | (ballPhysics/) |
+| [Ball Physics] | [Ball Physics](ballPhysics/) |
 | [Fountain] | (fountain/) |
 | [Paint Image] | (paintImage/) |
 | [Rain] | (rain/) |
